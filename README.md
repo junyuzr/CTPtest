@@ -3,6 +3,10 @@
 编译环境是windows+vs2015，如果要用在linux上，需要用linux版的ctp api
 # 博客地址
 http://blog.csdn.net/u012234115/article/details/70195889
+
+
+补充：上面的地址打不开 新地址 https://zhuanlan.zhihu.com/p/41633265
+
 # 截图
 ![](http://img.blog.csdn.net/20170417215811398?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvdTAxMjIzNDExNQ==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/Center)<br/>
 ![](http://img.blog.csdn.net/20170418214637074?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvdTAxMjIzNDExNQ==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/Center)<br/>
